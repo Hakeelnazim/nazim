@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1>Account Details</h1>
+<table bgcolor="yellow" border="10" cellpadding="10" cellspacing="10">
+	<tr>
+		<td><center><b><h3>Account No</h3></b></center></td>
+		<td><center><b>Customer Name</b></center></td>
+	</tr>
+	<tr>
+		<td>1001</td>
+		<td>Jack</td>
+	</tr>
+	<tr>
+		<td>1002</td>
+		<td>Tom</td>
+	</tr>
+</table>
+
+</body>
+</html>
